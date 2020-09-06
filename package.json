@@ -1,0 +1,26 @@
+{
+  "name": "babylon.purs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorRyner/babylon.purs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoctorRyner/babylon.purs/issues"
+  },
+  "homepage": "https://github.com/DoctorRyner/babylon.purs#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "babylonjs": "^4.1.0"
+  }
+}
